@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plugin3.0_ios/!svn/ver/708/trunk/code/public/EUExDocumentReader/uexDocumentReader
+END
+uexDocumentReader.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/plugin3.0_ios/!svn/ver/708/trunk/code/public/EUExDocumentReader/uexDocumentReader/uexDocumentReader.dylib
+END
+libuexDocumentReader.a
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/plugin3.0_ios/!svn/ver/708/trunk/code/public/EUExDocumentReader/uexDocumentReader/libuexDocumentReader.a
+END
+info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plugin3.0_ios/!svn/ver/506/trunk/code/public/EUExDocumentReader/uexDocumentReader/info.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plugin3.0_ios/!svn/ver/54/trunk/code/public/EUExDocumentReader/uexDocumentReader/plugin.xml
+END
